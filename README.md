@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jin! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>
+<h1>Hi, I'm Jin! <br/><a href="https://www.linkedin.com/in/jin-kasai/">Cybersecurity Student</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
