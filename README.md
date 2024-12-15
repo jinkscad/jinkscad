@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jin! <br/><a href="https://www.linkedin.com/in/jin-kasai/">Cybersecurity Student</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Password Cracker</b>
-  - [Brute Force and Dictionary Attack Password Cracker Simulation in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python Coding</b>
+  - [Brute Force and Dictionary Attack Password Cracker Simulation](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
