@@ -2,7 +2,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity</b>
-  - [Building Home Lab Environment](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Building Home Lab Environment](https://github.com/jinkscad/BuildHomeLab/blob/main/README.md)
 - <b>Python Coding</b>
   - [Brute Force and Dictionary Attack Password Crack Simulation](https://github.com/jinkscad/PasswordCrackerSimulation)
 - <b>C# (.NET Desktop Applications)</b>
