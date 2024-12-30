@@ -3,6 +3,7 @@
 
 - <b>Cybersecurity</b>
   - [Building Home Lab Environment](https://github.com/jinkscad/BuildHomeLab/blob/main/README.md)
+  - [SIEM project](https://github.com/jinkscad/SIEMproject)
 - <b>Python Coding</b>
   - [Brute Force and Dictionary Attack Password Crack Simulation](https://github.com/jinkscad/PasswordCrackerSimulation)
 
